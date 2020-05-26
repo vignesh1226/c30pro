@@ -12,7 +12,7 @@ function setup(){
     engine = Engine.create();
     world = engine.world;
 
-    ball1 = new Ballgreen(400,100,50);
+    ball1 = new Ballgreen(300,375,50);
     ball2 = new Ballred(200,375,50);
     ball3 = new Ballblack(120,375,35);
     ball4 = new Ballyellow(30,375,20);
